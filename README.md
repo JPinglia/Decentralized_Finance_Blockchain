@@ -5,10 +5,15 @@ Goal of this project is to build a blockchain-based ledger system. A webpage is 
 The program is written using Visual Studio code. The program lays out a step-wise reporting and program execution. The code is run in a (Dev) environment with the use of the following libraries:
 
 streamlit
+
 dataclasses
+
 typing
+
 datatime
+
 pandas
+
 hashlib
 
 # Usage
